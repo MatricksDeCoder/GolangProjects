@@ -1,4 +1,4 @@
-# Exercise #1: Quiz Game
+# Exercise 1: Quiz Game
 
 This exercise is broken into two parts.
 
